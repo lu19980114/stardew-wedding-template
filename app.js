@@ -1,6 +1,6 @@
 const weddingConfig = {
-  groom: '新郎姓名',
-  bride: '新娘姓名',
+  groom: '沼王',
+  bride: 'pingu',
   groomLatin: 'GROOM',
   brideLatin: 'BRIDE',
   weddingDate: '2030-10-01T00:00:00+08:00',
